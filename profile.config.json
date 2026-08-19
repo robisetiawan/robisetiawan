@@ -1,69 +1,99 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Robi Setiawan",
+    "username": "robisetiawan",
+    "headline": "Full-stack Web Developer",
+    "affiliation": "Universitas Bina Darma",
+    "location": "Palembang, Indonesia",
+    "status": "Building / Researching",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Full-Stack Web Developer with professional experience since 2022, specializing in Laravel, PHP, and Next.js to build scalable, secure, and maintainable web applications.",
+      "My work combines hands-on software engineering with a practical builder mindset: understanding real-world requirements, designing reliable architectures, building end-to-end solutions, and continuously improving systems in production."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full-Stack Web Dev",
+    "direction": "Scalable & Reliable Web Systems",
+    "themes": "Laravel / Full-Stack / Architecture",
+    "narrative": "I focus on building scalable web applications and integrated digital systems, with particular expertise in Laravel, backend development, API integration, databases, authentication, and modern frontend development using Next.js and React."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Full-Stack Dev",
+      "description": "Developing end-to-end web applications from backend architecture and database design to frontend interfaces, API integration, authentication, deployment, and maintenance."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "Laravel",
+      "description": "Specializing in Laravel and PHP for building scalable web applications, RESTful APIs, MVC-based systems, authentication, queue and job processing, caching, and databases."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Backend Dev",
+      "description": "Designing and developing backend services using Laravel and PHP, with experience in RESTful APIs, database optimization, system integration, authentication, and background jobs."
+    },
+    {
+      "name": "Architecture",
+      "description": "Applying software architecture principles to build maintainable systems with clear separation of responsibilities, reliable database structures, and secure authentication."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Presensi Kuliah",
+      "url": "https://github.com/robisetiawan",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Full-Stack Academic System",
+      "summary": "Built a QR-code based attendance system for students, lecturers, and academic staff, covering attendance validation, schedule management, teaching records, reporting, and role-based access control.",
+      "heroLabel": "QR-Based Attendance"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "OBE",
+      "url": "https://github.com/robisetiawan",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Academic Curriculum Management",
+      "summary": "Developed an Outcome-Based Education system for managing graduate profiles, CPL, CPMK, sub-CPMK mapping, curriculum structures, assessment, and evaluation workflows.",
+      "heroLabel": "Outcome-Based Edu"
+    },
+    {
+      "name": "E-Voting System",
+      "url": "https://github.com/robisetiawan",
+      "homepage": "",
+      "focus": "Payment & Transaction Integration",
+      "summary": "Developed an e-voting platform with an integrated voucher purchase and payment workflow using the Midtrans payment gateway, connecting voting, voucher, and transaction processes into a single system.",
+      "heroLabel": "E-Voting & Payment"
+    },
+    {
+      "name": "EnterPrime News",
+      "url": "https://github.com/robisetiawan",
+      "homepage": "https://enterprimenews.com/",
+      "focus": "Production News Platform",
+      "summary": "Contributed to the development and maintenance of a production news platform, implementing content management, article publishing, digital content delivery, and performance-oriented features.",
+      "heroLabel": "Production News"
     }
   ],
   "techStack": [
-    "TypeScript",
+    "Laravel",
+    "PHP",
     "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "React.js",
+    "JavaScript",
+    "Tailwind CSS",
+    "Bootstrap",
+    "SQL Server",
+    "MySQL",
+    "REST API",
+    "Linux",
+    "Apache",
+    "Nginx",
+    "Git",
+    "Docker"
   ],
   "links": [
     {
-      "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
-      "logo": "github",
-      "color": "0B1220"
+      "label": "Website",
+      "value": "Visit",
+      "url": "https://robisetiawan.vercel.app/",
+      "logo": "globe",
+      "color": "3D9CFF"
     }
   ],
   "activity": {
@@ -73,5 +103,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building reliable web systems and sharing what works."
 }

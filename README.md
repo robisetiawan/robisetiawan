@@ -50,24 +50,24 @@ Click **Use this template** above, select **Create a new repository**, and use t
 - **Visibility:** Public
 
 ```text
-GitHub username: octocat
-Repository name: octocat
-Repository URL:  github.com/octocat/octocat
+GitHub username: robisetiawan
+Repository name: robisetiawan
+Repository URL:  github.com/robisetiawan/robisetiawan
 ```
 
 GitHub only displays a Profile README when the repository owner and repository name match. Do not clone this starter repository directly for your profile; create your own repository from the template first.
 
 ### 2. Clone your new repository and install
 
-Clone the profile repository you just created. For example, if your username is `octocat`:
+Clone the profile repository you just created. For example, if your username is `robisetiawan`:
 
 ```bash
-git clone https://github.com/octocat/octocat.git
-cd octocat
+git clone https://github.com/robisetiawan/robisetiawan.git
+cd robisetiawan
 npm ci
 ```
 
-Replace every `octocat` in the example with your own GitHub username. Run the commands from Terminal, PowerShell, or the integrated terminal in your code editor.
+Replace every `robisetiawan` in the example with your own GitHub username. Run the commands from Terminal, PowerShell, or the integrated terminal in your code editor.
 
 ### 3. Prepare your portrait
 

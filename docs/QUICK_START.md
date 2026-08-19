@@ -15,21 +15,21 @@ Your source portrait should ideally be at least 1200 pixels tall, well lit, and 
 
 On the starter repository, click **Use this template**, select **Create a new repository**, and choose your personal GitHub account as the owner. Name the new public repository exactly after your username.
 
-For example, the user `octocat` must create `octocat/octocat`.
+For example, the user `robisetiawan` must create `robisetiawan/robisetiawan`.
 
 Do not name it `my-profile`, `github-readme`, or `portfolio`; GitHub will treat those as normal repositories instead of a Profile README. Do not clone the starter repository directly: create your own profile repository from the template first.
 
 ## 2. Clone Your New Repository
 
-Clone the profile repository you just created. For example, if your username is `octocat`:
+Clone the profile repository you just created. For example, if your username is `robisetiawan`:
 
 ```bash
-git clone https://github.com/octocat/octocat.git
-cd octocat
+git clone https://github.com/robisetiawan/robisetiawan.git
+cd robisetiawan
 npm ci
 ```
 
-Replace every `octocat` with your own GitHub username. `npm ci` installs the exact dependency versions recorded in the included lockfile.
+Replace every `robisetiawan` with your own GitHub username. `npm ci` installs the exact dependency versions recorded in the included lockfile.
 
 ## 3. Keep the Portrait Private
 
